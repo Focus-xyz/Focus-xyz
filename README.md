@@ -1,16 +1,19 @@
-## Hi there 👋
+#👋 my Developer Portfolio
 
-<!--
-**Focus-xyz/Focus-xyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧑‍💻 About Me
+I'm an aspiring developer passionate about learning new technologies and building cool projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+
+**Project One**
+A simple app I built to practice SwiftUI.
+
+**Project Two**
+A fun side project experimenting with APIs.
+
+---
+
+### 📫 Contact
+You can reach me on [LinkedIn]https://linkedin.com) or check out my code on [Github](https://github.com)
