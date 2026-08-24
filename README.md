@@ -1,19 +1,12 @@
-# 👋 My Developer Portfolio
-
-### 🧑‍💻 About Me
-I'm an aspiring developer passionate about learning new technologies and building cool projects.
+# 💫 Focus's Github Profile
 
 ---
 
-### 🚀 Projects
-
-**Project One**
-A simple app I built to practice SwiftUI.
-
-**Project Two**
-A fun side project experimenting with APIs.
+### 👾 What I Know
+The following languages bellow this text are all of the coding languages I have learned over the past 1 years.
+Python
+Batch
+c# (learning)
+C++ (learning)
 
 ---
-
-### 📫 Contact
-You can reach me on [LinkedIn]https://linkedin.com) or check out my code on [Github](https://github.com)
