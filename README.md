@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/800x200/0A0A0A/00FF00?text=FOCUS+TWEAKS+v5.0" alt="Banner">
+  <img src="https://www.freepik.com/vectors/matrix-banner" alt="Banner">
 </p>
 
 <p align="center">
